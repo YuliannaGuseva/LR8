@@ -1,0 +1,58 @@
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\bin\Debug\ClimateEquipment.exe.config
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\bin\Debug\ClimateEquipment.exe
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\bin\Debug\ClimateEquipment.pdb
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.csproj.AssemblyReference.cache
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormAutorization.resources
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.Properties.Resources.resources
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.csproj.GenerateResource.cache
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.csproj.CoreCompileInputs.cache
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.exe
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.pdb
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormCustomer1.resources
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormManager1.resources
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormOperator1.resources
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormSpecialist1.resources
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormCustomer2.resources
+H:\УП 02.01\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormCustomerSave.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\bin\Debug\ClimateEquipment.exe.config
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\bin\Debug\ClimateEquipment.exe
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\bin\Debug\ClimateEquipment.pdb
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.csproj.AssemblyReference.cache
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormAutorization.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormCustomer1.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormCustomer2.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormManager1.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormOperator1.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormSpecialist1.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.Properties.Resources.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.csproj.GenerateResource.cache
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.csproj.CoreCompileInputs.cache
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.exe
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.pdb
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\bin\Debug\ClimateEquipment.exe.config
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\bin\Debug\ClimateEquipment.exe
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\bin\Debug\ClimateEquipment.pdb
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.csproj.AssemblyReference.cache
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormAutorization.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormCustomer1.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormCustomer2.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormManager1.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormOperator1.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormSpecialist1.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.Properties.Resources.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.csproj.GenerateResource.cache
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.csproj.CoreCompileInputs.cache
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.exe
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.pdb
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormUserLogin.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormCustomer3.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormOperator2.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormSpecialist2.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormCustomer3.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormOperator2.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormSpecialist2.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormSpecialist3.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormUserLogin.resources
+C:\Users\GWitals\Desktop\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormManager2.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormManager2.resources
+D:\УП\Сделанное\ClimateEquipment\ClimateEquipment\obj\Debug\ClimateEquipment.FormSpecialist3.resources

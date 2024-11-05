@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|d:\\\u0443\u043F\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\climateequipment\\climateequipment\\formautorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|solutionrelative:climateequipment\\formautorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|d:\\\u0443\u043F\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\climateequipment\\climateequipment\\formcustomer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|solutionrelative:climateequipment\\formcustomer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|d:\\\u0443\u043F\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\climateequipment\\climateequipment\\formcustomer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|solutionrelative:climateequipment\\formcustomer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|d:\\\u0443\u043F\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\climateequipment\\climateequipment\\formspecialist2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|solutionrelative:climateequipment\\formspecialist2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|d:\\\u0443\u043F\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\climateequipment\\climateequipment\\formspecialist2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|solutionrelative:climateequipment\\formspecialist2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|d:\\\u0443\u043F\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\climateequipment\\climateequipment\\formspecialist3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|solutionrelative:climateequipment\\formspecialist3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|d:\\\u0443\u043F\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\climateequipment\\climateequipment\\formspecialist3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|solutionrelative:climateequipment\\formspecialist3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|d:\\\u0443\u043F\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\climateequipment\\climateequipment\\formautorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{587C77CA-F966-45BD-A792-568FB3A17E79}|ClimateEquipment\\ClimateEquipment.csproj|solutionrelative:climateequipment\\formautorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCustomer1.cs",
+              "DocumentMoniker": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormCustomer1.cs",
+              "RelativeDocumentMoniker": "ClimateEquipment\\FormCustomer1.cs",
+              "ToolTip": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormCustomer1.cs",
+              "RelativeToolTip": "ClimateEquipment\\FormCustomer1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:53:50.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCustomer2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormCustomer2.cs",
+              "RelativeDocumentMoniker": "ClimateEquipment\\FormCustomer2.cs",
+              "ToolTip": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormCustomer2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClimateEquipment\\FormCustomer2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:44:25.199Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSpecialist2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormSpecialist2.cs",
+              "RelativeDocumentMoniker": "ClimateEquipment\\FormSpecialist2.cs",
+              "ToolTip": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormSpecialist2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClimateEquipment\\FormSpecialist2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:44:02.352Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSpecialist2.cs",
+              "DocumentMoniker": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormSpecialist2.cs",
+              "RelativeDocumentMoniker": "ClimateEquipment\\FormSpecialist2.cs",
+              "ToolTip": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormSpecialist2.cs",
+              "RelativeToolTip": "ClimateEquipment\\FormSpecialist2.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:42:30.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAutorization.cs",
+              "DocumentMoniker": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormAutorization.cs",
+              "RelativeDocumentMoniker": "ClimateEquipment\\FormAutorization.cs",
+              "ToolTip": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormAutorization.cs",
+              "RelativeToolTip": "ClimateEquipment\\FormAutorization.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswGYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:28:40.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormSpecialist3.cs",
+              "DocumentMoniker": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormSpecialist3.cs",
+              "RelativeDocumentMoniker": "ClimateEquipment\\FormSpecialist3.cs",
+              "ToolTip": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormSpecialist3.cs",
+              "RelativeToolTip": "ClimateEquipment\\FormSpecialist3.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAiwJEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:22:44.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormSpecialist3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormSpecialist3.cs",
+              "RelativeDocumentMoniker": "ClimateEquipment\\FormSpecialist3.cs",
+              "ToolTip": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormSpecialist3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClimateEquipment\\FormSpecialist3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:22:42.388Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAutorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormAutorization.cs",
+              "RelativeDocumentMoniker": "ClimateEquipment\\FormAutorization.cs",
+              "ToolTip": "D:\\\u0423\u041F\\\u0421\u0434\u0435\u043B\u0430\u043D\u043D\u043E\u0435\\ClimateEquipment\\ClimateEquipment\\FormAutorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClimateEquipment\\FormAutorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:36:45.386Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
